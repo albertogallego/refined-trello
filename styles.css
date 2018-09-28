@@ -1,3 +1,12 @@
-.top-spacer {
-  display: none;
+.home-left-sidebar-container,
+.js-back-menu {
+  display: none !important;
+}
+
+.home-container .all-boards {
+  width: 100% !important;
+}
+
+.content-all-boards {
+  padding-left: 0 !important;
 }
